@@ -1,4 +1,4 @@
-fetch('./country.json')
+fetch('./countries.json')
     .then(response => response.json())
     .then(data => {
         menuOptions(data)
@@ -23,7 +23,7 @@ function menuOptions(data){
 
         const matchedCountry = data.find(country => country.name === selectedCountry);
 
-        if (matchedCountry && matchedCountry.cities.length > 0) {
+        if (matchedCountry && Array.isArray(matchedCountry.cities)) {
             matchedCountry.cities.forEach(city => {
                 const cityOption = document.createElement('option');
                 cityOption.value = city;
@@ -33,8 +33,6 @@ function menuOptions(data){
         }
     })
 }
-
-//API Key:72286423a155d841b461770267224a5d
 
 function displayResults(){
     const country = document.getElementById('countryDropdown').value;
@@ -71,6 +69,3 @@ function getAqi(countryCode, city){
     })
     .catch(error => console.error('Error fetching AQI data:', error));
 }
-
-
-//b98fce104980f877d09ca58739e0253854bd5f8a

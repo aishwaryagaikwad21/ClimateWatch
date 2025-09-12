@@ -1,0 +1,1649 @@
+[
+  {
+    "name": "Afghanistan",
+    "cities": [
+      "Kabul"
+    ]
+  },
+  {
+    "name": "Aland Islands",
+    "cities": [
+      "Mariehamn"
+    ]
+  },
+  {
+    "name": "Albania",
+    "cities": [
+      "Tirana"
+    ]
+  },
+  {
+    "name": "Algeria",
+    "cities": [
+      "Algiers"
+    ]
+  },
+  {
+    "name": "American Samoa",
+    "cities": [
+      "Pago Pago"
+    ]
+  },
+  {
+    "name": "Andorra",
+    "cities": [
+      "Andorra la Vella"
+    ]
+  },
+  {
+    "name": "Angola",
+    "cities": [
+      "Luanda"
+    ]
+  },
+  {
+    "name": "Anguilla",
+    "cities": [
+      "The Valley"
+    ]
+  },
+  {
+    "name": "Antarctica",
+    "cities": [
+      "McMurdo Station"
+    ]
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "cities": [
+      "St. John's"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "cities": [
+      "Buenos Aires"
+    ]
+  },
+  {
+    "name": "Armenia",
+    "cities": [
+      "Yerevan"
+    ]
+  },
+  {
+    "name": "Aruba",
+    "cities": [
+      "Oranjestad"
+    ]
+  },
+  {
+    "name": "Australia",
+    "cities": [
+      "Canberra"
+    ]
+  },
+  {
+    "name": "Austria",
+    "cities": [
+      "Vienna"
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "cities": [
+      "Baku"
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "cities": [
+      "Manama"
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "cities": [
+      "Dhaka"
+    ]
+  },
+  {
+    "name": "Barbados",
+    "cities": [
+      "Bridgetown"
+    ]
+  },
+  {
+    "name": "Belarus",
+    "cities": [
+      "Minsk"
+    ]
+  },
+  {
+    "name": "Belgium",
+    "cities": [
+      "Brussels"
+    ]
+  },
+  {
+    "name": "Belize",
+    "cities": [
+      "Belmopan"
+    ]
+  },
+  {
+    "name": "Benin",
+    "cities": [
+      "Porto-Novo"
+    ]
+  },
+  {
+    "name": "Bermuda",
+    "cities": [
+      "Hamilton"
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "cities": [
+      "Thimphu"
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "cities": [
+      "Sucre"
+    ]
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "cities": [
+      "Kralendijk"
+    ]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "cities": [
+      "Sarajevo"
+    ]
+  },
+  {
+    "name": "Botswana",
+    "cities": [
+      "Gaborone"
+    ]
+  },
+  {
+    "name": "Bouvet Island",
+    "cities": [
+      "Noordwijk"
+    ]
+  },
+  {
+    "name": "Brazil",
+    "cities": [
+      "Brasília",
+      "Rio de Janeiro",
+      "São Paulo"
+    ]
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "cities": [
+      "Diego Garcia"
+    ]
+  },
+  {
+    "name": "Brunei",
+    "cities": [
+      "Bandar Seri Begawan"
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "cities": [
+      "Sofia"
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "cities": [
+      "Ouagadougou"
+    ]
+  },
+  {
+    "name": "Burundi",
+    "cities": [
+      "Gitega"
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "cities": [
+      "Phnom Penh"
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "cities": [
+      "Yaoundé"
+    ]
+  },
+  {
+    "name": "Canada",
+    "cities": [
+      "London",
+      "Ottawa",
+      "Paris"
+    ]
+  },
+  {
+    "name": "Cape Verde",
+    "cities": [
+      "Praia"
+    ]
+  },
+  {
+    "name": "Cayman Islands",
+    "cities": [
+      "George Town"
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "cities": [
+      "Bangui"
+    ]
+  },
+  {
+    "name": "Chad",
+    "cities": [
+      "N'Djamena"
+    ]
+  },
+  {
+    "name": "Chile",
+    "cities": [
+      "Santiago"
+    ]
+  },
+  {
+    "name": "China",
+    "cities": [
+      "Beijing",
+      "Shanghai"
+    ]
+  },
+  {
+    "name": "Christmas Island",
+    "cities": [
+      "Flying Fish Cove"
+    ]
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "cities": [
+      "West Island"
+    ]
+  },
+  {
+    "name": "Colombia",
+    "cities": [
+      "Madrid"
+    ]
+  },
+  {
+    "name": "Comoros",
+    "cities": [
+      "Moroni"
+    ]
+  },
+  {
+    "name": "Congo",
+    "cities": [
+      "Brazzaville"
+    ]
+  },
+  {
+    "name": "Cook Islands",
+    "cities": [
+      "Avarua"
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "cities": [
+      "San José"
+    ]
+  },
+  {
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "cities": [
+      "Yamoussoukro"
+    ]
+  },
+  {
+    "name": "Croatia",
+    "cities": [
+      "Zagreb"
+    ]
+  },
+  {
+    "name": "Cuba",
+    "cities": [
+      "Havana"
+    ]
+  },
+  {
+    "name": "Curaçao",
+    "cities": []
+  },
+  {
+    "name": "Cyprus",
+    "cities": [
+      "Nicosia"
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "cities": [
+      "Prague"
+    ]
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "cities": [
+      "Kinshasa"
+    ]
+  },
+  {
+    "name": "Denmark",
+    "cities": [
+      "Copenhagen"
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "cities": [
+      "Djibouti"
+    ]
+  },
+  {
+    "name": "Dominica",
+    "cities": [
+      "Roseau"
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "cities": [
+      "Santo Domingo"
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "cities": [
+      "Madrid"
+    ]
+  },
+  {
+    "name": "Egypt",
+    "cities": [
+      "Cairo",
+      "Giza"
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "cities": [
+      "San Salvador"
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "cities": [
+      "Malabo"
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "cities": [
+      "Asmara"
+    ]
+  },
+  {
+    "name": "Estonia",
+    "cities": [
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Eswatini",
+    "cities": [
+      "Mbabane"
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "cities": [
+      "Addis Ababa"
+    ]
+  },
+  {
+    "name": "Falkland Islands",
+    "cities": [
+      "Stanley"
+    ]
+  },
+  {
+    "name": "Faroe Islands",
+    "cities": [
+      "Tórshavn"
+    ]
+  },
+  {
+    "name": "Fiji Islands",
+    "cities": [
+      "Suva"
+    ]
+  },
+  {
+    "name": "Finland",
+    "cities": [
+      "Helsinki"
+    ]
+  },
+  {
+    "name": "France",
+    "cities": [
+      "Paris"
+    ]
+  },
+  {
+    "name": "French Guiana",
+    "cities": [
+      "Cayenne"
+    ]
+  },
+  {
+    "name": "French Polynesia",
+    "cities": [
+      "Papeete"
+    ]
+  },
+  {
+    "name": "French Southern Territories",
+    "cities": [
+      "Port-aux-Français"
+    ]
+  },
+  {
+    "name": "Gabon",
+    "cities": [
+      "Libreville"
+    ]
+  },
+  {
+    "name": "Georgia",
+    "cities": [
+      "Tbilisi"
+    ]
+  },
+  {
+    "name": "Germany",
+    "cities": [
+      "Berlin"
+    ]
+  },
+  {
+    "name": "Ghana",
+    "cities": [
+      "Accra"
+    ]
+  },
+  {
+    "name": "Gibraltar",
+    "cities": [
+      "Gibraltar"
+    ]
+  },
+  {
+    "name": "Greece",
+    "cities": [
+      "Athens",
+      "Thessaloniki",
+      "Patras"
+    ]
+  },
+  {
+    "name": "Greenland",
+    "cities": [
+      "Nuuk",
+      "Sisimiut"
+    ]
+  },
+  {
+    "name": "Grenada",
+    "cities": [
+      "St. George's"
+    ]
+  },
+  {
+    "name": "Guadeloupe",
+    "cities": [
+      "Basse-Terre"
+    ]
+  },
+  {
+    "name": "Guam",
+    "cities": [
+      "Hagåtña"
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "cities": [
+      "Guatemala City"
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "cities": [
+      "St. Peter Port"
+    ]
+  },
+  {
+    "name": "Guinea",
+    "cities": [
+      "Conakry"
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "cities": [
+      "Bissau"
+    ]
+  },
+  {
+    "name": "Guyana",
+    "cities": [
+      "Georgetown"
+    ]
+  },
+  {
+    "name": "Haiti",
+    "cities": [
+      "Port-au-Prince"
+    ]
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "cities": [
+      "Noordwijk"
+    ]
+  },
+  {
+    "name": "Honduras",
+    "cities": [
+      "Tegucigalpa"
+    ]
+  },
+  {
+    "name": "Hong Kong S.A.R.",
+    "cities": [
+      "Hong Kong"
+    ]
+  },
+  {
+    "name": "Hungary",
+    "cities": [
+      "Budapest"
+    ]
+  },
+  {
+    "name": "Iceland",
+    "cities": [
+      "Reykjavik"
+    ]
+  },
+  {
+    "name": "India",
+  
+  "cities":[
+      "Agra",
+      "Ahmedabad",
+      "Ajmer",
+      "Aligarh",
+      "Allahabad",
+      "Ambattur",
+      "Amravati",
+      "Amritsar",
+      "Asansol",
+      "Aurangabad",
+      "Bangalore",
+      "Bareilly",
+      "Belgaum",
+      "Bhavnagar",
+      "Bhilai",
+      "Bhiwandi",
+      "Bhopal",
+      "Bhubaneswar",
+      "Bikaner",
+      "Chandigarh",
+      "Chennai",
+      "Coimbatore",
+      "Cuttack",
+      "Dehradun",
+      "Dhanbad",
+      "Durgapur",
+      "Faridabad",
+      "Firozabad",
+      "Ghaziabad",
+      "Gulbarga",
+      "Guntur",
+      "Gurgaon",
+      "Guwahati",
+      "Gwalior",
+      "Howrah",
+      "Hubli-Dharwad",
+      "Hyderabad",
+      "Indore",
+      "Jabalpur",
+      "Jaipur",
+      "Jalandhar",
+      "Jammu",
+      "Jamnagar",
+      "Jamshedpur",
+      "Jhansi",
+      "Jodhpur",
+      "Kalyan-Dombivli",
+      "Kanpur",
+      "Kochi",
+      "Kolhapur",
+      "Kolkata",
+      "Kota",
+      "Loni",
+      "Lucknow",
+      "Ludhiana",
+      "Madurai",
+      "Mangalore",
+      "Meerut",
+      "Mira-Bhayandar",
+      "Mumbai",
+      "Mysore",
+      "Nagpur",
+      "Nanded",
+      "Nashik",
+      "Navi Mumbai",
+      "Nellore",
+      "New Delhi",
+      "Noida",
+      "Patna",
+      "Pimpri-Chinchwad",
+      "Pune",
+      "Raipur",
+      "Rajkot",
+      "Ranchi",
+      "Saharanpur",
+      "Salem",
+      "Sangli-Miraj & Kupwad",
+      "Siliguri",
+      "Solapur",
+      "Srinagar",
+      "Surat",
+      "Thane",
+      "Thiruvananthapuram",
+      "Tiruchirappalli",
+      "Tirunelveli",
+      "Ujjain",
+      "Ulhasnagar",
+      "Vadodara",
+      "Varanasi",
+      "Vasai-Virar",
+      "Vijayawada",
+      "Visakhapatnam",
+      "Warangal"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "cities": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan",
+      "Bek",
+      "Tangerang"
+    ]
+  },
+  {
+    "name": "Iran",
+    "cities": [
+      "Tehran"
+    ]
+  },
+  {
+    "name": "Iraq",
+    "cities": [
+      "Baghdad"
+    ]
+  },
+  {
+    "name": "Ireland",
+    "cities": [
+      "Dublin"
+    ]
+  },
+  {
+    "name": "Israel",
+    "cities": [
+      "Jerusalem"
+    ]
+  },
+  {
+    "name": "Italy",
+    "cities": [
+      "Rome"
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "cities": [
+      "Kingston"
+    ]
+  },
+  {
+    "name": "Japan",
+    "cities": [
+      "Tokyo"
+    ]
+  },
+  {
+    "name": "Jersey",
+    "cities": [
+      "Saint Helier"
+    ]
+  },
+  {
+    "name": "Jordan",
+    "cities": [
+      "Amman"
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "cities": [
+      "Nur-Sultan"
+    ]
+  },
+  {
+    "name": "Kenya",
+    "cities": [
+      "Nairobi"
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "cities": [
+      "South Tarawa"
+    ]
+  },
+  {
+    "name": "Kosovo",
+    "cities": [
+      "Pristina"
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "cities": [
+      "Kuwait City"
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "cities": [
+      "Bishkek"
+    ]
+  },
+  {
+    "name": "Laos",
+    "cities": [
+      "Vientiane"
+    ]
+  },
+  {
+    "name": "Latvia",
+    "cities": [
+      "Riga"
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "cities": [
+      "Beirut"
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "cities": [
+      "Maseru"
+    ]
+  },
+  {
+    "name": "Liberia",
+    "cities": [
+      "Monrovia"
+    ]
+  },
+  {
+    "name": "Libya",
+    "cities": [
+      "Tripoli"
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "cities": [
+      "Vaduz"
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "cities": [
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "cities": [
+      "Luxembourg"
+    ]
+  },
+  {
+    "name": "Macau S.A.R.",
+    "cities": [
+      "Macau"
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "cities": [
+      "Antananarivo"
+    ]
+  },
+  {
+    "name": "Malawi",
+    "cities": [
+      "Lilongwe"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "cities": [
+      "Kuala Lumpur"
+    ]
+  },
+  {
+    "name": "Maldives",
+    "cities": [
+      "Male"
+    ]
+  },
+  {
+    "name": "Mali",
+    "cities": [
+      "Bamako"
+    ]
+  },
+  {
+    "name": "Malta",
+    "cities": [
+      "Valletta"
+    ]
+  },
+  {
+    "name": "Man (Isle of)",
+    "cities": [
+      "Douglas"
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "cities": [
+      "Majuro"
+    ]
+  },
+  {
+    "name": "Martinique",
+    "cities": [
+      "Fort-de-France"
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "cities": [
+      "Nouakchott"
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "cities": [
+      "Port Louis"
+    ]
+  },
+  {
+    "name": "Mayotte",
+    "cities": [
+      "Mamoudzou"
+    ]
+  },
+  {
+    "name": "Mexico",
+    "cities": [
+      "Madrid"
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "cities": [
+      "Palikir"
+    ]
+  },
+  {
+    "name": "Moldova",
+    "cities": [
+      "Chisinau"
+    ]
+  },
+  {
+    "name": "Monaco",
+    "cities": [
+      "Monaco"
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "cities": [
+      "Ulaanbaatar"
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "cities": [
+      "Podgorica"
+    ]
+  },
+  {
+    "name": "Montserrat",
+    "cities": [
+      "Plymouth"
+    ]
+  },
+  {
+    "name": "Morocco",
+    "cities": [
+      "Rabat"
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "cities": [
+      "Maputo"
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "cities": [
+      "Naypyidaw"
+    ]
+  },
+  {
+    "name": "Namibia",
+    "cities": [
+      "Windhoek"
+    ]
+  },
+  {
+    "name": "Nauru",
+    "cities": [
+      "Yaren"
+    ]
+  },
+  {
+    "name": "Nepal",
+    "cities": [
+      "Kathmandu"
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "cities": [
+      "Amsterdam",
+      "Rotterdam",
+      "The Hague"
+    ]
+  },
+  {
+    "name": "New Caledonia",
+    "cities": [
+      "Nouméa"
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "cities": [
+      "Auckland",
+      "Wellington"
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "cities": [
+      "Managua"
+    ]
+  },
+  {
+    "name": "Niger",
+    "cities": [
+      "Niamey"
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "cities": [
+      "Lagos",
+      "Abuja"
+    ]
+  },
+  {
+    "name": "Niue",
+    "cities": [
+      "Alofi",
+      "Hikutavake"
+    ]
+  },
+  {
+    "name": "Norfolk Island",
+    "cities": [
+      "Kingston"
+    ]
+  },
+  {
+    "name": "North Korea",
+    "cities": [
+      "Pyongyang"
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "cities": [
+      "Skopje"
+    ]
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "cities": [
+      "Saipan"
+    ]
+  },
+  {
+    "name": "Norway",
+    "cities": [
+      "Oslo"
+    ]
+  },
+  {
+    "name": "Oman",
+    "cities": [
+      "Muscat"
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "cities": [
+      "Karachi",
+      "Lahore",
+      "Islamabad"
+    ]
+  },
+  {
+    "name": "Palau",
+    "cities": [
+      "Ngerulmud"
+    ]
+  },
+  {
+    "name": "Palestinian Territory Occupied",
+    "cities": [
+      "East Jerusalem",
+      "Gaza"
+    ]
+  },
+  {
+    "name": "Panama",
+    "cities": [
+      "Panama City"
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "cities": [
+      "Port Moresby"
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "cities": [
+      "Asunción"
+    ]
+  },
+  {
+    "name": "Peru",
+    "cities": [
+      "Lima"
+    ]
+  },
+  {
+    "name": "Philippines",
+    "cities": [
+      "Madrid"
+    ]
+  },
+  {
+    "name": "Pitcairn Island",
+    "cities": [
+      "Adamstown"
+    ]
+  },
+  {
+    "name": "Poland",
+    "cities": [
+      "Warsaw"
+    ]
+  },
+  {
+    "name": "Portugal",
+    "cities": [
+      "Lisbon"
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "cities": [
+      "San Juan"
+    ]
+  },
+  {
+    "name": "Qatar",
+    "cities": [
+      "Doha"
+    ]
+  },
+  {
+    "name": "Reunion",
+    "cities": [
+      "Saint-Denis"
+    ]
+  },
+  {
+    "name": "Romania",
+    "cities": [
+      "Bucharest"
+    ]
+  },
+  {
+    "name": "Russia",
+    "cities": [
+      "Moscow"
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "cities": [
+      "Kigali"
+    ]
+  },
+  {
+    "name": "Saint Helena",
+    "cities": [
+      "Jamestown"
+    ]
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "cities": [
+      "Basseterre"
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "cities": [
+      "Castries"
+    ]
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "cities": [
+      "Saint-Pierre"
+    ]
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "cities": [
+      "Kingstown"
+    ]
+  },
+  {
+    "name": "Saint-Barthelemy",
+    "cities": [
+      "Gustavia"
+    ]
+  },
+  {
+    "name": "Saint-Martin (French part)",
+    "cities": [
+      "Marigot"
+    ]
+  },
+  {
+    "name": "Samoa",
+    "cities": [
+      "Apia"
+    ]
+  },
+  {
+    "name": "San Marino",
+    "cities": [
+      "San Marino"
+    ]
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "cities": [
+      "São Tomé"
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "cities": [
+      "Riyadh"
+    ]
+  },
+  {
+    "name": "Senegal",
+    "cities": [
+      "Dakar"
+    ]
+  },
+  {
+    "name": "Serbia",
+    "cities": [
+      "Belgrade"
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "cities": [
+      "Victoria"
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "cities": [
+      "Freetown"
+    ]
+  },
+  {
+    "name": "Singapore",
+    "cities": [
+      "Singapore"
+    ]
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "cities": [
+      "Philipsburg"
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "cities": [
+      "Bratislava"
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "cities": [
+      "Ljubljana"
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "cities": [
+      "Honiara"
+    ]
+  },
+  {
+    "name": "Somalia",
+    "cities": [
+      "Mogadishu"
+    ]
+  },
+  {
+    "name": "South Africa",
+    "cities": [
+      "Johannesburg",
+      "Cape Town",
+      "Durban",
+      "Pretoria"
+    ]
+  },
+  {
+    "name": "South Georgia",
+    "cities": [
+      "King Edward Point"
+    ]
+  },
+  {
+    "name": "South Korea",
+    "cities": [
+      "Seoul"
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "cities": [
+      "Juba"
+    ]
+  },
+  {
+    "name": "Spain",
+    "cities": [
+      "Madrid"
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "cities": [
+      "Sri Jayawardenepura Kotte",
+      "Colombo"
+    ]
+  },
+  {
+    "name": "Sudan",
+    "cities": [
+      "Khartoum"
+    ]
+  },
+  {
+    "name": "Suriname",
+    "cities": [
+      "Paramaribo"
+    ]
+  },
+  {
+    "name": "Svalbard and Jan Mayen Islands",
+    "cities": [
+      "Longyearbyen"
+    ]
+  },
+  {
+    "name": "Sweden",
+    "cities": [
+      "Stockholm"
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "cities": [
+      "Bern"
+    ]
+  },
+  {
+    "name": "Syria",
+    "cities": [
+      "Damascus"
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "cities": [
+      "Taipei"
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "cities": [
+      "Dushanbe"
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "cities": [
+      "Dodoma"
+    ]
+  },
+  {
+    "name": "Thailand",
+    "cities": [
+      "Bangkok"
+    ]
+  },
+  {
+    "name": "The Bahamas",
+    "cities": [
+      "Nassau"
+    ]
+  },
+  {
+    "name": "The Gambia ",
+    "cities": [
+      "Banjul"
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "cities": [
+      "Dili"
+    ]
+  },
+  {
+    "name": "Togo",
+    "cities": [
+      "Lomé"
+    ]
+  },
+  {
+    "name": "Tokelau",
+    "cities": [
+      "Fakaofo"
+    ]
+  },
+  {
+    "name": "Tonga",
+    "cities": [
+      "Nuku'alofa"
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "cities": [
+      "Port of Spain"
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "cities": [
+      "Tunis"
+    ]
+  },
+  {
+    "name": "Turkey",
+    "cities": [
+      "Ankara",
+      "Istanbul",
+      "Izmir"
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "cities": [
+      "Ashgabat"
+    ]
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "cities": [
+      "xyz"
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "cities": [
+      "Funafuti"
+    ]
+  },
+  {
+    "name": "Uganda",
+    "cities": [
+      "Kampala"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "cities": [
+      "Kyiv"
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "cities": [
+      "Abu Dhabi",
+      "Dubai"
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "cities": [
+      "London"
+    ]
+  },
+  {
+    "name": "United States",
+    "cities": [
+      "New York",
+      "Washington D.C.",
+      "Los Angeles",
+      "Chicago",
+      "Houston",
+      "Miami",
+      "San Francisco",
+      "Seattle",
+      "Boston",
+      "Atlanta",
+      "Dallas",
+      "Philadelphia",
+      "Phoenix",
+      "San Diego",
+      "San Jose",
+      "Austin",
+      "Jacksonville",
+      "Fort Worth",
+      "Columbus",
+      "Charlotte",
+      "Indianapolis"
+    ]
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "cities": [
+      "Baker Island",
+      "Howland Island",
+      "Jarvis Island",
+      "Johnston Atoll",
+      "Kingman Reef",
+      "Midway Atoll",
+      "Palmyra Atoll"
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "cities": [
+      "Montevideo"
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "cities": [
+      "Tashkent"
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "cities": [
+      "Port Vila"
+    ]
+  },
+  {
+    "name": "Vatican City State (Holy See)",
+    "cities": [
+      "Vatican City"
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "cities": [
+      "Caracas"
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "cities": [
+      "Hanoi",
+      "Ho Chi Minh City"
+    ]
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "cities": [
+      "Road Town"
+    ]
+  },
+  {
+    "name": "Virgin Islands (US)",
+    "cities": [
+      "Charlotte Amalie"
+    ]
+  },
+  {
+    "name": "Wallis and Futuna Islands",
+    "cities": [
+      "Mata-Utu"
+    ]
+  },
+  {
+    "name": "Western Sahara",
+    "cities": [
+      "El Aaiún"
+    ]
+  },
+  {
+    "name": "Yemen",
+    "cities": [
+      "Sana'a"
+    ]
+  },
+  {
+    "name": "Zambia",
+    "cities": [
+      "Lusaka"
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "cities": [
+      "Harare"
+    ]
+  }
+]
