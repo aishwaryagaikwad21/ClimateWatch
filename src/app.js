@@ -6,16 +6,14 @@ const hbs = require('hbs')
 
 const app = express()
 
-
-// view engine
-const htmlPath = path.join(__dirname,'../templates/views/html')
-app.set('views', htmlPath)
-app.engine('html', ejs.renderFile)
-app.set('view engine', 'html')
+//define paths for Express config - sends static html pages
+const publicDirectory = path.join(__dirname, '../public')
+app.use(express.static(publicDirectory)) //to serve that directory static html (index.html, about.html, help.html, client_side js)
+//customise web server
 
 //setting route to deliver handlebar and views location (templates)
 app.set('view engine', 'hbs'); //npm handlebars - render dynamic templates
-const viewsPath = path.join(__dirname, '../templates/views/hbs') //defines path for Express config
+const viewsPath = path.join(__dirname, '../templates/views') //defines path for Express config
 app.set('views', viewsPath)
 
 // route
@@ -26,7 +24,6 @@ app.get('/', (req, res) => {
 app.get('/aqi',(req,res) => {
     res.render('aqi')
 })
-
 
 //start server
 app.listen(3000, () => { //process of starting server is asynchronous process
