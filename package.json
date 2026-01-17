@@ -1,5 +1,30 @@
 {
   "dependencies": {
-    "dotenv": "^17.2.2"
-  }
+    "chalk": "^5.6.2",
+    "dotenv": "^17.2.2",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "hbs": "^4.2.0",
+    "nodemon": "^3.1.11",
+    "path": "^0.12.7",
+    "postman-request": "^2.88.1-postman.48"
+  },
+  "name": "climatewatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishwaryagaikwad21/ClimateWatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishwaryagaikwad21/ClimateWatch/issues"
+  },
+  "homepage": "https://github.com/aishwaryagaikwad21/ClimateWatch#readme"
 }
