@@ -18,11 +18,19 @@ app.set('views', viewsPath)
 
 // route
 app.get('/', (req, res) => {
-    res.render('welcome')
+    res.render('welcome',{
+        name:'Aishwarya'
+    })
 })
 
 app.get('/aqi',(req,res) => {
     res.render('aqi')
+})
+
+app.get('/about', (req, res) => { //renders static html page
+    res.sendFile(
+        path.join(__dirname, '../public/html/about.html')
+    )
 })
 
 //start server
