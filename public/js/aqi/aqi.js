@@ -37,35 +37,25 @@ function menuOptions(data){
 function displayResults(){
     const country = document.getElementById('countryDropdown').value;
     const city = document.getElementById('cityDropdown').value;
-    //console.log(country, city);
 
-    const countryUrl = `https://restcountries.com/v3.1/name/${country.toLowerCase()}`
-    fetch(countryUrl)
-        .then(response => response.json())
-        .then(data => {
-            const countryCode = data[0].cca2; //fetch country code
-            //console.log(countryCode);
-            getAqi(countryCode, city);
-        })
-        .catch(error => console.error('Error fetching country code data:', error));
-}
-
-function getAqi(countryCode, city){
-    const apiKey = 'b98fce104980f877d09ca58739e0253854bd5f8a';
-    fetch(`https://api.waqi.info/feed/${city}/?token=${apiKey}`)
-    .then(response => response.json())
-    .then(data => {
-        if(data.data.aqi){
-        //console.log(`AQI of ${city} is`, data.data.aqi);
-        const resultCard = document.getElementById('resultCard');
-        resultCard.style.display = 'block';
-        const cityName = document.getElementById('cityName');
-        cityName.textContent = city;
-        const aqiValue = document.getElementById('aqiValue');
-        aqiValue.textContent = `AQI is ${data.data.aqi}`;
-        } else{
-            console.log(`No data found for ${city}`);
-        }
+    const Url = `http://localhost:3000/fetchaqi?country=${country}&city=${city}`
+    fetch(Url)
+    .then((res) => {
+        res.json()
+            .then((data) => {
+                if(data.aqi){
+                    //console.log(`AQI of ${city} is`, data.aqi);
+                    const resultCard = document.getElementById('resultCard');
+                    resultCard.style.display = 'block';
+                    const cityName = document.getElementById('cityName');
+                    cityName.textContent = city;
+                    const aqiValue = document.getElementById('aqiValue');
+                    aqiValue.textContent = `AQI is ${data.aqi}`;
+                    } else{
+                        console.log(`No data found for ${city}`);
+                    }
+            })
     })
-    .catch(error => console.error('Error fetching AQI data:', error));
+    .catch(error => console.error('Error fetching AQI data:', error)) 
 }
+

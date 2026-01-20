@@ -2,7 +2,7 @@ const express = require('express')
 const path = require('path')
 const ejs = require('ejs')
 const hbs = require('hbs')
-//const aqi = require('./utils/aqi/aqi')
+const aqi = require('./utils/aqi/aqi')
 
 const app = express()
 
@@ -23,8 +23,21 @@ app.get('/', (req, res) => {
     })
 })
 
-app.get('/aqi',(req,res) => {
+app.get('/aqi', (req, res) => {
     res.render('aqi')
+})
+
+app.get('/fetchaqi',(req, res) => {
+    const country = req.query.country
+    const city = req.query.city
+    aqi.aqi(country,city,(err, data) => {
+        if(err){
+            return res.send({
+                error:err
+            })
+        }
+        res.send(data)
+    })
 })
 
 app.get('/about', (req, res) => { //renders static html page
