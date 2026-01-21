@@ -1,8 +1,12 @@
 const express = require('express')
 const path = require('path')
+require('dotenv').config({
+    path: path.join(__dirname, '../.env')
+})
 const ejs = require('ejs')
 const hbs = require('hbs')
 const aqi = require('./utils/aqi/aqi')
+
 
 const app = express()
 

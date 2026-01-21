@@ -2,7 +2,7 @@ const request = require('postman-request');
 
 function aqi(country, city, callback){
 
-    const apiKey = 'b98fce104980f877d09ca58739e0253854bd5f8a';
+    const apiKey = process.env.AQI_API_KEY
     const aqiUrl = `https://api.waqi.info/feed/${city}/?token=${apiKey}`
     
     request({url:aqiUrl, json:true},(error, response) => {
