@@ -22,9 +22,9 @@ app.set('views', viewsPath)
 
 // route
 app.get('/', (req, res) => {
-    res.render('welcome',{
-        name:'Aishwarya'
-    })
+    res.sendFile(
+        path.join(__dirname, '../env_template/index.html')
+    )
 })
 
 app.get('/aqi', (req, res) => {
@@ -44,11 +44,11 @@ app.get('/fetchaqi',(req, res) => {
     })
 })
 
-app.get('/about', (req, res) => { //renders static html page
-    res.sendFile(
-        path.join(__dirname, '../public/html/about.html')
-    )
-})
+// app.get('/about', (req, res) => { //renders static html page
+//     res.sendFile(
+//         path.join(__dirname, '../public/html/about.html')
+//     )
+// })
 
 //start server
 app.listen(3000, () => { //process of starting server is asynchronous process
